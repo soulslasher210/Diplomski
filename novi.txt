@@ -1,0 +1,6 @@
+Linux Sysadmin
+Databases - Oracle, mySQL etc.
+Security (Firewall, Network, Online Security etc)
+Storage in Linux
+Productivity (Too many technologies to explore, not much time available)
+Windows- Sysadmin, reboot etc.

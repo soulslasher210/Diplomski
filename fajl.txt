@@ -1,0 +1,15 @@
+Alex user 1 a
+jack admin 2
+Chris user 1c
+dominic user 1
+Peter user 1
+nancy admin 2
+Bob user 1
+ray admin 2
+Viktor user 1 vts
+olaf user  1
+Igor user 1 aaa
+zac user 1tcs
+Rick admin 2
+alex. user 1 
+
